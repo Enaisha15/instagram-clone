@@ -1,3 +1,4 @@
+// collaborated with team Hayden to successfully complete the team project.
 var likeButton = document.getElementsByClassName("like");
 
 //things left to do for the like button:
@@ -67,3 +68,5 @@ Array.from(commentButton).forEach(function (element) {
 //       });
 // });
 // const id = this.parentNode.parentNode.childNodes[5].innerText.trim("\n")
+
+// collaborated with team Hayden to successfully complete the team project.
